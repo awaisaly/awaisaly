@@ -114,6 +114,13 @@ const awaisAli = {
 - 🖼️ Developed desktop and web applications including **image-analysis tools**
 - 📈 Built **reporting portals and dashboards** using PHP and .NET
 
+### 🎯 Software Developer & SQA Engineer - Early Career Roles
+**Aug 2015 – Apr 2017**
+
+- 🚗 **SAP / IT Executive** — Toyota Garden Motors
+- 💻 **Full-Stack Web Developer** — Pakistan Testing Service
+- 🧪 **SQA Engineer** — Altair Technologies (Jadoo TV)
+
 ---
 
 ## 🚀 Featured Projects
