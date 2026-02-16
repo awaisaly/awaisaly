@@ -19,10 +19,6 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=awaisaly&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-</p>
-
 ---
 
 ## 👨‍💻 About Me
@@ -88,7 +84,7 @@ const awaisAli = {
 
 ## 💼 Professional Experience
 
-### 🎯 Senior Software Engineer @ [Next Order](https://nextorder.co.uk/)
+### 🎯 Senior Software Engineer @ <a href="https://nextorder.co.uk/" target="_blank">Next Order</a>
 **Feb 2022 – Present**
 
 - 🍽️ Built large-scale **customer-facing online ordering platforms** using React
@@ -97,7 +93,7 @@ const awaisAli = {
 - 📊 Enhanced **admin panels** for order management, reporting, shifts, and operational settings
 - 🌍 Collaborated asynchronously with **cross-functional remote teams** on production systems
 
-### 🛡️ Senior Software Engineer @ [Emumba](https://emumba.com/)
+### 🛡️ Senior Software Engineer @ <a href="https://emumba.com/" target="_blank">Emumba</a>
 **Jan 2020 – Feb 2022**
 
 - 🔒 Led frontend development for **Zero Trust Network Access (ZTNA)** application (Web + Electron)
@@ -140,7 +136,7 @@ High-traffic online ordering, payments, POS flows, and admin reporting for resta
 - Split payments & kiosk workflows
 - Operational tooling
 
-🔗 [Next Order Website](https://nextorder.co.uk/)
+🔗 <a href="https://nextorder.co.uk/" target="_blank">Next Order Website</a>
 
 </td>
 <td width="50%">
@@ -158,7 +154,7 @@ UI components and performance improvements for a high-scale photo editing experi
 - Performance-focused iteration
 - Large production codebase
 
-🔗 [Polarr Website](https://www.polarr.com/)
+🔗 <a href="https://www.polarr.com/" target="_blank">Polarr Website</a>
 
 </td>
 </tr>
@@ -178,7 +174,7 @@ Zero Trust Network Access client built with React/TypeScript delivered across we
 - Authentication & access workflows
 - Production hardening
 
-🔗 [ZTNA by Extreme Networks](https://www.extremenetworks.com/)
+🔗 <a href="https://www.extremenetworks.com/" target="_blank">ZTNA by Extreme Networks</a>
 
 </td>
 <td width="50%">
@@ -199,19 +195,6 @@ A global COVID-19 dashboard focused on clear visualization, accessibility, and g
 </td>
 </tr>
 </table>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=awaisaly&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=awaisaly&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="170"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=awaisaly&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
 
 ---
 
@@ -264,5 +247,5 @@ Bahria University, Islamabad
 </p>
 
 <p align="center">
-  <i>⭐️ From <a href="https://github.com/awaisaly">awaisaly</a></i>
+  ⭐️ From <a href="https://github.com/awaisaly" target="_blank">awaisaly</a>
 </p>
