@@ -229,7 +229,7 @@ Bahria University, Islamabad
 ## 📫 Let's Connect!
 
 <p align="center">
-  <a href="https://awaisali-portfolio.vercel.app/" target="_blank">
+  <a href="https://awaisali.net/" target="_blank">
     <img src="https://img.shields.io/badge/🌐_Portfolio-Visit_My_Website-2E9EF7?style=for-the-badge" alt="Portfolio" />
   </a>
   <a href="https://www.linkedin.com/in/awaisaly" target="_blank">
