@@ -14,7 +14,7 @@
   <a href="mailto:awaisaly93@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://awaisali-portfolio.vercel.app/CV-Awais-Ali.pdf" target="_blank">
+  <a href="https://awaisali.net/CV-Awais-Ali.pdf" target="_blank">
     <img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=google-drive&logoColor=white" alt="Resume" />
   </a>
 </p>
