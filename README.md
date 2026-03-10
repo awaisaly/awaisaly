@@ -5,7 +5,7 @@
 <h3 align="center">🚀 Senior Software Engineer | React & TypeScript Expert | Remote-first 🌍</h3>
 
 <p align="center">
-  <a href="https://awaisali-portfolio.vercel.app/" target="_blank">
+  <a href="https://awaisali.net/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-2E9EF7?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
   </a>
   <a href="https://www.linkedin.com/in/awaisaly" target="_blank">
