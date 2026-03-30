@@ -135,7 +135,7 @@ const awaisAli = {
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 💜 Knowvio — Premium Knowledge Workspace
 A cinematic, context-first workspace to ask, cite, and recall knowledge with confidence.
@@ -152,7 +152,7 @@ A cinematic, context-first workspace to ask, cite, and recall knowledge with con
 🔗 <a href="https://knowvio.awaisali.net/" target="_blank">Visit Knowvio</a>
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 🍕 Restaurant Ordering & POS Systems
 High-traffic online ordering, payments, POS flows, and admin reporting for restaurant operations.
@@ -173,7 +173,7 @@ High-traffic online ordering, payments, POS flows, and admin reporting for resta
 </td>
 </tr>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 📸 Polarr Photo Editor
 UI components and performance improvements for a high-scale photo editing experience (20M+ users).
@@ -191,7 +191,7 @@ UI components and performance improvements for a high-scale photo editing experi
 🔗 <a href="https://www.polarr.com/" target="_blank">Polarr Website</a>
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 🔒 ZTNA Security Application
 Zero Trust Network Access client built with React/TypeScript delivered across web and desktop.
@@ -211,7 +211,7 @@ Zero Trust Network Access client built with React/TypeScript delivered across we
 </td>
 </tr>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 🔧 Explain My Error — AI Debugging CLI
 A CLI that turns confusing programming errors into clear fixes directly in the terminal, with practical remediation steps.
@@ -231,7 +231,7 @@ A CLI that turns confusing programming errors into clear fixes directly in the t
 🔗 <a href="https://github.com/awaisaly/explain-my-error" target="_blank">GitHub</a> | <a href="https://www.npmjs.com/package/explain-my-error" target="_blank">npm package</a>
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 🦠 COVID-19 Awareness Dashboard
 A global COVID-19 dashboard focused on clear visualization, accessibility, and guidance (Volunteer Project).
