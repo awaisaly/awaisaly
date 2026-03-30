@@ -84,6 +84,14 @@ const awaisAli = {
 
 ## 💼 Professional Experience
 
+### 💜 CEO & Founder @ <a href="https://knowvio.awaisali.net/" target="_blank">Knowvio</a>
+**Mar 2026 – Present**
+
+- 🧠 Built and launched a **premium knowledge workspace** focused on grounded, citation-backed AI outputs
+- 🎨 Designed **context-first workflows** that connect URLs, PDFs, images, videos, and text on a single visual board
+- 📊 Created a **visual knowledge graph** enabling citation-backed chat, semantic recall, and reusable decision outputs
+- 🚀 Shaped product direction, UX narrative, and execution for fast iteration during beta
+
 ### 🎯 Senior Software Engineer @ <a href="https://nextorder.co.uk/" target="_blank">Next Order</a>
 **Feb 2022 – Present**
 
@@ -129,6 +137,23 @@ const awaisAli = {
 <tr>
 <td width="50%">
 
+### 💜 Knowvio — Premium Knowledge Workspace
+A cinematic, context-first workspace to ask, cite, and recall knowledge with confidence.
+
+**Role:**
+- CEO & Founder
+
+**Features:**
+- Visual knowledge graph connecting URLs, PDFs, images, videos, and text
+- Citation-backed chat with semantic recall
+- Grounded AI outputs with confidence
+- Reusable decision outputs
+
+🔗 <a href="https://knowvio.awaisali.net/" target="_blank">Visit Knowvio</a>
+
+</td>
+<td width="50%">
+
 ### 🍕 Restaurant Ordering & POS Systems
 High-traffic online ordering, payments, POS flows, and admin reporting for restaurant operations.
 
@@ -146,6 +171,8 @@ High-traffic online ordering, payments, POS flows, and admin reporting for resta
 🔗 <a href="https://nextorder.co.uk/" target="_blank">Next Order Website</a>
 
 </td>
+</tr>
+<tr>
 <td width="50%">
 
 ### 📸 Polarr Photo Editor
