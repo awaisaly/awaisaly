@@ -227,6 +227,26 @@ A global COVID-19 dashboard focused on clear visualization, accessibility, and g
 - Information architecture
 
 </td>
+<td width="50%">
+
+### 🔧 Explain My Error — AI Debugging CLI
+A CLI that turns confusing programming errors into clear fixes directly in the terminal, with practical remediation steps.
+
+**Tech Stack:**
+- Node.js, TypeScript
+- CLI tooling
+- AI-powered debugging
+- Developer Experience
+
+**Features:**
+- Plain-English explanations with likely causes
+- Ranked fix plans and ELI5 output
+- Interactive mode, JSON mode, piped input
+- Context-aware via stack/code/framework flags
+
+🔗 <a href="https://github.com/awaisaly/explain-my-error" target="_blank">GitHub</a> | <a href="https://www.npmjs.com/package/explain-my-error" target="_blank">npm package</a>
+
+</td>
 </tr>
 </table>
 
