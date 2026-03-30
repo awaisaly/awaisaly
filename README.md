@@ -5,7 +5,7 @@
 <h3 align="center">🚀 Senior Software Engineer | React & TypeScript Expert | Remote-first 🌍</h3>
 
 <p align="center">
-  <a href="https://awaisali-portfolio.vercel.app/" target="_blank">
+  <a href="https://awaisali.net/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-2E9EF7?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
   </a>
   <a href="https://www.linkedin.com/in/awaisaly" target="_blank">
@@ -14,7 +14,7 @@
   <a href="mailto:awaisaly93@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://awaisali-portfolio.vercel.app/CV-Awais-Ali.pdf" target="_blank">
+  <a href="https://awaisali.net/CV-Awais-Ali.pdf" target="_blank">
     <img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=google-drive&logoColor=white" alt="Resume" />
   </a>
 </p>
@@ -256,7 +256,7 @@ Bahria University, Islamabad
 ## 📫 Let's Connect!
 
 <p align="center">
-  <a href="https://awaisali-portfolio.vercel.app/" target="_blank">
+  <a href="https://awaisali.net/" target="_blank">
     <img src="https://img.shields.io/badge/🌐_Portfolio-Visit_My_Website-2E9EF7?style=for-the-badge" alt="Portfolio" />
   </a>
   <a href="https://www.linkedin.com/in/awaisaly" target="_blank">
