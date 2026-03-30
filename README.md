@@ -191,8 +191,6 @@ UI components and performance improvements for a high-scale photo editing experi
 🔗 <a href="https://www.polarr.com/" target="_blank">Polarr Website</a>
 
 </td>
-</tr>
-<tr>
 <td width="50%">
 
 ### 🔒 ZTNA Security Application
@@ -211,6 +209,8 @@ Zero Trust Network Access client built with React/TypeScript delivered across we
 🔗 <a href="https://www.extremenetworks.com/" target="_blank">ZTNA by Extreme Networks</a>
 
 </td>
+</tr>
+<tr>
 <td width="50%">
 
 ### 🦠 COVID-19 Awareness Dashboard
