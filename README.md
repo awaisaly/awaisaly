@@ -213,22 +213,6 @@ Zero Trust Network Access client built with React/TypeScript delivered across we
 <tr>
 <td width="50%">
 
-### 🦠 COVID-19 Awareness Dashboard
-A global COVID-19 dashboard focused on clear visualization, accessibility, and guidance (Volunteer Project).
-
-**Tech Stack:**
-- React
-- Data visualization
-- Accessibility-first
-
-**Features:**
-- Readable, accessible visualizations
-- Public health guidelines
-- Information architecture
-
-</td>
-<td width="50%">
-
 ### 🔧 Explain My Error — AI Debugging CLI
 A CLI that turns confusing programming errors into clear fixes directly in the terminal, with practical remediation steps.
 
@@ -245,6 +229,22 @@ A CLI that turns confusing programming errors into clear fixes directly in the t
 - Context-aware via stack/code/framework flags
 
 🔗 <a href="https://github.com/awaisaly/explain-my-error" target="_blank">GitHub</a> | <a href="https://www.npmjs.com/package/explain-my-error" target="_blank">npm package</a>
+
+</td>
+<td width="50%">
+
+### 🦠 COVID-19 Awareness Dashboard
+A global COVID-19 dashboard focused on clear visualization, accessibility, and guidance (Volunteer Project).
+
+**Tech Stack:**
+- React
+- Data visualization
+- Accessibility-first
+
+**Features:**
+- Readable, accessible visualizations
+- Public health guidelines
+- Information architecture
 
 </td>
 </tr>
