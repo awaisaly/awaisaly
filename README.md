@@ -84,7 +84,7 @@ const awaisAli = {
 
 ## 💼 Professional Experience
 
-### 💜 CEO & Founder @ <a href="https://knowvio.awaisali.net/" target="_blank">Knowvio</a>
+### 💜 Creator of <a href="https://knowvio.awaisali.net/" target="_blank">Knowvio</a>
 **Mar 2026 – Present**
 
 - 🧠 Built and launched a **premium knowledge workspace** focused on grounded, citation-backed AI outputs
@@ -141,7 +141,7 @@ const awaisAli = {
 A cinematic, context-first workspace to ask, cite, and recall knowledge with confidence.
 
 **Role:**
-- CEO & Founder
+- Creator
 
 **Features:**
 - Visual knowledge graph connecting URLs, PDFs, images, videos, and text
