@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Awais+Ali;Senior+Software+Engineer;8%2B+Years+of+Experience;Building+Scalable+Web+Applications" alt="Typing SVG" />
 </div>
 
-<h3 align="center">🚀 Senior Software Engineer | React, Next.js TypeScript & Nodejs Expert</h3>
+<h3 align="center">🚀 Senior Software Engineer | React, Next.js, TypeScript & Nodejs Expert</h3>
 
 <p align="center">
   <a href="https://awaisali.net/" target="_blank">
