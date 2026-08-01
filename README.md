@@ -35,8 +35,8 @@ const awaisAli = {
     "Payments, POS, admin systems, and data-heavy operational platforms",
   ],
   currentFocus: [
+    "HATO: HLM Pro lighting management (Electron) and web/GIS dashboards",
     "Knowvio: a GenAI knowledge workspace for citation-backed outputs",
-    "Restaurant ordering, POS, payments, and operations tooling",
     "Developer tools that turn AI into practical user value",
   ],
   philosophy:
@@ -99,8 +99,15 @@ I build full-stack products that stay maintainable as they grow: clean UI bounda
 
 ## Professional Experience
 
+### Software Engineer — <a href="https://www.hato.lighting/" target="_blank">HATO</a>
+**Jul 2026 - Present**
+
+- Developing and maintaining HLM Pro, an Electron-based application for intelligent lighting management across controlled-environment facilities, including poultry sheds, dairy farms, and fish farms
+- Building a web-based management dashboard that enables customers to remotely monitor, configure, and control their HLM Pro installations in real time
+- Designing and developing internal GIS-powered dashboards for customer and lead management, with map-based visualization for sales and support teams to track installations and manage opportunities
+
 ### Creator — <a href="https://knowvio.awaisali.net/" target="_blank">Knowvio</a>
-**Mar 2026 - Present**
+**Feb 2026 - Present**
 
 - Built and launched a GenAI knowledge workspace focused on grounded, citation-backed outputs
 - Designed full-stack, context-first workflows that connect URLs, PDFs, images, videos, and text on a single visual board
@@ -108,7 +115,7 @@ I build full-stack products that stay maintainable as they grow: clean UI bounda
 - Shaped product direction, architecture, and execution during beta
 
 ### Senior Software Engineer — <a href="https://nextorder.co.uk/" target="_blank">Next Order</a>
-**Feb 2022 - Present**
+**Feb 2022 - Jan 2026**
 
 - Built and maintained large-scale customer-facing online ordering platforms and operations tooling
 - Implemented complex menu structures, modifiers, vouchers, loyalty programs, and Stripe/Adyen payment flows
