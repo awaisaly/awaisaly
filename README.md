@@ -302,9 +302,9 @@ Bahria University, Islamabad
 
 ---
 
-## Let's Build Something Great
+## Let's Connect
 
-If you're hiring for a full-stack developer who can own product features end-to-end, build practical GenAI workflows, and ship reliably in remote teams, I'd love to talk.
+Always happy to chat about full-stack products, GenAI workflows, and shipping ideas that actually make it to production.
 
 <p align="center">
   <a href="https://awaisali.net/" target="_blank">
